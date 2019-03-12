@@ -5,7 +5,7 @@ Links to the different Chapters
 ---
 
 ### [Chapter 01](Chapter01.md)
-### [Chapter 02](Chapter02.md))
+### [Chapter 02](Chapter02.md)
 ### [Chapter 03](Chapter03.md)
 ### [Chapter03-Alternate](Chapter03-Alternate.md)
 
