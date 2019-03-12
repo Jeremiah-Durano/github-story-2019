@@ -4,14 +4,14 @@
 Links to the different Chapters
 ---
 
-### [Chapter 01](Chapter01.md)
-### [Chapter 02](Chapter02.md)
-### [Chapter 03](Chapter03.md)
-### [Chapter03-Alternate](Chapter03-Alternate.md)
+[Chapter 01](Chapter01.md)
+[Chapter 02](Chapter02.md)
+[Chapter 03](Chapter03.md)
+[Chapter03-Alternate](Chapter03-Alternate.md)
 
-Github Pages Index
+#Github Pages Index
 ---
-# [Github pages link](https://jeremiah-durano.github.io/github-story-2019/)
+[Github Pages Link](https://jeremiah-durano.github.io/github-story-2019/)
 
 -------------------------------------------------
 
