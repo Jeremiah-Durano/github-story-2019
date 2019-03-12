@@ -15,3 +15,14 @@ Fun fact the first day of Spring is called "The Vernal Equinox".
 'Equinox' being the Latin word for equal days.
 The so called vernal equinox happens when the tilt of 
 the earth's axis isn't facing towards or away from the sun.
+
+<aside id="sidebar">
+            <br>
+            <h2>Links To The Different Chapters</h2>
+            <hr>
+            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter01.md" class="button"><small>Chapter01</small></a>
+            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter02.md" class="button"><small>Chapter02</small></a>
+            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter03.md" class="button"><small>Chapter03</small></a>
+            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter04.md" class="button"><small>Chapter04</small></a>
+            <hr>
+</aside>

@@ -1,6 +1,7 @@
+-------------------------------------------------
 # Welcome to Jeremiah's GitHub Story
 ## Title: Spring's Beauty & It's Wonders
----
+
 ## Links to the different Chapters
 
 * [Chapter 01](Chapter01.md) ..
