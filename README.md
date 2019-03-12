@@ -9,7 +9,7 @@ Links to the different Chapters
 [Chapter 03](Chapter03.md)
 [Chapter03-Alternate](Chapter03-Alternate.md)
 
-#Github Pages Index
+# Github Pages Index
 ---
 [Github Pages Link](https://jeremiah-durano.github.io/github-story-2019/)
 
