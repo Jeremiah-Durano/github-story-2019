@@ -16,13 +16,8 @@ Fun fact the first day of Spring is called "The Vernal Equinox".
 The so called vernal equinox happens when the tilt of 
 the earth's axis isn't facing towards or away from the sun.
 
-<aside id="sidebar">
-            <br>
-            <h2>Links To The Different Chapters</h2>
-            <hr>
-            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter01.md" class="button"><small>Chapter01</small></a>
-            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter02.md" class="button"><small>Chapter02</small></a>
-            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter03.md" class="button"><small>Chapter03</small></a>
-            <a href="https://github.com/Jeremiah-Durano/github-story-2019/Chapter04.md" class="button"><small>Chapter04</small></a>
-            <hr>
-</aside>
+### Link's To Chapters
+1. [Chapter 01](Chapter01.md)
+2. [Chapter 02](Chapter02.md)
+3. [Chapter 03](Chapter03.md)
+4. [Chapter 03-Alternative](Chapter03_Alt.md)
