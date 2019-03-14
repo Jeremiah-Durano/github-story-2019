@@ -16,8 +16,11 @@ Fun fact the first day of Spring is called "The Vernal Equinox".
 The so called vernal equinox happens when the tilt of 
 the earth's axis isn't facing towards or away from the sun.
 
+
+
 ## Link's To Chapters
 1. [Chapter 01](Chapter01.md)
 2. [Chapter 02](Chapter02.md)
 3. [Chapter 03](Chapter03.md)
 4. [Chapter 03-Alternative](Chapter03_Alt.md)
+
