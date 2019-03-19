@@ -6,6 +6,9 @@ Another cool thing is that you can see more greenery since leaves are growing on
 The nice colours of the sunburst honey locusts, river birches and the swamp tupelo trees is a nice touch.
 If your into the colour purple or violet maybe looking at a foxglove tree will enlighten your mood.
 
+Seeing nature together and socialising with friends might be a good idea. Since the weather isn't too bad at all 
+going out and enjoying the scenery can be good for your mental and phyical well-being and health in general since the sun is out most of the time so your body can produce more vitamin D. The more vitamins, the better!
+
 
 
 ## Link's To Chapters
