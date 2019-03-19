@@ -2,6 +2,9 @@
 
 Spring is great. Seeing colourful flowers bloom, like the tulips and hyacinth's. Even the bright and yellow colour of the daffodils or the velevety texture of the jewel-like flower of the crocus can in some situations be a mood booster.
 
+Another cool thing is that you can see more greenery since leaves are growing on the trees again.
+The nice colours of the sunburst honey locusts, river birches and the swamp tupelo trees is a nice touch.
+If your into the colour purple or violet maybe looking at a foxglove tree will enlighten your mood.
 
 
 
